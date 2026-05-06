@@ -1,0 +1,28 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environnement virtuel
+venv/
+env/
+
+# Django
+db.sqlite3
+
+# Variables sensibles
+.env
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# migrations
+*/migrations/*.pyc
