@@ -45,7 +45,7 @@ L’API utilise JWT (JSON Web Token).
 ## Obtenir un token
 
 ```http
-POST /api/auth/access/
+POST /api/token/access/
 ```
 
 Body :
