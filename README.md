@@ -64,7 +64,7 @@ Body :
 ### 1. Cloner le dépôt
 
 ```bash
-git clone git@github.com:mouquettom/API-SoftDesk-Support.git
+git clone https://github.com/mouquettom/API-SoftDesk-Support.git
 ```
 
 ### 2. Accéder au projet
